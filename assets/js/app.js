@@ -5,7 +5,7 @@ createApp({
     const products = ref([]);
 
     onMounted(() => {
-      fetch('http://127.0.0.1:8000/api/products/uv')
+      fetch('https://vicentra.co.id/api/products/uv')
         .then(res => res.json())
         .then((data) => {
           products.value = data.data;
