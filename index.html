@@ -124,13 +124,13 @@
         <div class="w-[80vw] h-[2px] bg-[#e1e1e1]"></div>
         <div class="w-[10vw] h-[2px] bg-[#1B0000] absolute"></div>
       </div>
-      <div class="flex flex-col justify-center items-center gap-4 mt-10">
+      <div class="lg:w-[80vw] mx-5 lg:mx-auto grid lg:grid-cols-12 gap-4 mt-10">
         <a v-for="(sales, index) in salesPeople" :key="index"
           :href="'https://api.whatsapp.com/send?phone=' + sales.phone + '&text=Hallo%20Vicentra,%20Saya%20Ingin%20Memesan%20Mesin%20UV.'"
           target="_blank" :class="[
             (sales.id === 1) ? 'bg-[#006db8]' : 'bg-green-600',
             'sales_' + sales.slug + '_cta_link',
-            'w-[90%] lg:w-[50%] h-[5rem] flex items-center gap-[1.5rem] rounded-full relative py-2 pl-[7rem]'
+            'lg:col-span-6 h-[5rem] flex items-center gap-[1.5rem] rounded-full relative py-2 pl-[7rem]'
           ]">
           <div class="absolute left-0">
             <div class="w-[5.5rem] h-[5.5rem] rounded-full border-[0.188rem] border-white relative">
