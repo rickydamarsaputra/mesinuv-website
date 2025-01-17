@@ -90,7 +90,9 @@
                 lengkap</a>
             </div>
             <div class="order-first lg:order-none">
-              <img v-bind:src="product.photo" v-bind:alt="product.name">
+              <a v-bind:href="product.link_product" target="_blank">
+                <img v-bind:src="product.photo" v-bind:alt="product.name">
+              </a>
             </div>
           </div>
         </div>
