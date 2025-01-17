@@ -28,9 +28,16 @@ createApp({
         link_product: 'https://vicentra.co.id/product/mesin/digital-printing/uv/neu-jet-mpuvrh1804',
       }
     ]);
+    const isMenuShow = ref(false);
+
+    const toggleMenu = () => {
+      isMenuShow.value = !isMenuShow.value;
+    }
 
     return {
-      products
+      products,
+      isMenuShow,
+      toggleMenu
     }
   }
 }).mount('#app')
