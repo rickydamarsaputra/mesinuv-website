@@ -8,10 +8,11 @@ require_once('const.php');
   <!-- Metas -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
   <meta name="author" content="Vicentra Dev" />
   <meta name="description" content="Vicentra - Spesialis mesin digital printing UV terbaik. Temukan mesin cetak UV berkualitas untuk berbagai kebutuhan, dari flatbed hingga roll to roll. Kami menyediakan mesin baru dan bekas dengan harga terbaik serta layanan purna jual terpercaya. Dapatkan solusi cetak berkualitas tinggi untuk bisnis Anda. Hubungi kami sekarang!" />
   <meta name="keywords" content="jasa print uv, harga printer uv, printer uv dtf, harga mesin uv printing, mesin uv untuk apa, apa itu uv printing, dtf uv untuk apa, uv dtf stiker">
+  <link rel="canonical" href="https://mesinuv.com" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
 
   <title>Vicentra - Jual Mesin Digital Printing UV Terbaik & Termurah</title>
