@@ -18,11 +18,11 @@ $products = [
   ],
   [
     "id" => 3,
-    "name" => "NEU Jet MPUVRH1804",
-    "tagline" => "MESIN PRINTER UV ROL TO ROL HP 1804",
+    "name" => "NEU Jet MPUVRH1601",
+    "tagline" => "MESIN PRINTER UV ROL TO ROL HP 1601",
     "photo" => "./assets/images/mesin/neu-jet-mpuvrh1804.webp",
-    "short_description" => "NEU Jet MPUVRH1804 adalah mesin printer dengan spesifikasi tinggi yang dilengkapi dengan 4 printhead EPSON i3200 dan berbagai fitur canggih seperti sistem pengisian tinta tekanan negatif, sistem pengeringan dan pemanasan dengan pemanas IR depan, serta sistem pencahayaan LED pada tempat pencetakan. Mesin ini mendukung mode warna CMYK+W+V dan memiliki ukuran printer 3100×700×1450 mm dengan berat bersih 240 kg.",
-    "link_product" => "https://vicentra.co.id/product/mesin/digital-printing/uv/neu-jet-mpuvrh1804",
+    "short_description" => "Mesin NEU Jet MPUVRH1601 adalah mesin cetak yang dilengkapi dengan printhead EPSON i3200 dan mendukung mode warna CMYK. Mesin ini menggunakan papan Hoson dan perangkat lunak RIP PhotoPRINT/MainTop. Mesin ini dirancang untuk menangani media roll to roll dengan motor tunggal untuk feeding dan take up. Dilengkapi dengan 13 pinch rollers dan tempat cetak selebar 144 mm. Sistem hisap materialnya dapat disesuaikan dan memiliki sistem pencahayaan LED untuk tempat cetak. Sistem pemanas dan pengeringan terdiri dari pemanas belakang dan 3 pemanas IR depan. Sistem suplai tinta menggunakan sistem tekanan negatif dengan kapasitas 1.2 L. Motor X/Y menggunakan Leadshine 130/90 Watt AC Servo Motor. Ukuran printer adalah 2585×670×1300 mm dan ukuran paket adalah 2700×570×650 mm dengan berat bersih/kotor 177/240 kg. ",
+    "link_product" => "https://vicentra.co.id/product/mesin/digital-printing/uv/neu-jet-mpuvrh1601",
   ]
 ];
 
